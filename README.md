@@ -3,8 +3,6 @@
 # KAR13MA09 -NTTT-DDoS 
 </p>
  DDoS Script (DDoS Panel) với nhiều Bypass (Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / v.v.)<br/><br/>
- Không tấn công bất kỳ trang web nào mà bạn không sở hữu
- Điều này được tạo ra cho mục đích giáo dục<br/>
  Tất cả trách nhiệm của các bạn khi dùng tool này , chúng tôi không chịu trách nhiệm ! <br/>
  Acttack <br/>
 1. Chạy file setup.py chọn theo setup của máy <br/>
