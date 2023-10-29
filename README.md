@@ -11,7 +11,7 @@
 
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
-# Attack
+## Attack
 1. Chạy file setup.py chọn theo setup của máy
 2. Chạy file main.py
  Nhập: "soc" Enter
