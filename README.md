@@ -11,7 +11,13 @@
 
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
-
+# Attack
+1. Chạy file setup.py chọn theo setup của máy
+2. Chạy file main.py
+ Nhập: "soc" Enter
+       Nhập đường link
+       Nhập số luồng cần tấn công: 500000
+       Nhập thời gian cần tấn công: 200
 # Img
 
 <img src="https://github.com/KAR13MA09/NTTT-DDoS/blob/main/NTTT-DDoS.png"/></br>
