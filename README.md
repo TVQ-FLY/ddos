@@ -14,7 +14,7 @@
 ## Attack
 1. Chạy file setup.py chọn theo setup của máy
 2. Chạy file main.py
- Nhập: "soc" Enter
+3. Nhập: "soc" Enter
        Nhập đường link
        Nhập số luồng cần tấn công: 500000
        Nhập thời gian cần tấn công: 200
