@@ -5,19 +5,20 @@
  DDoS Script (DDoS Panel) với nhiều Bypass (Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / v.v.)<br/><br/>
  Không tấn công bất kỳ trang web nào mà bạn không sở hữu
  Điều này được tạo ra cho mục đích giáo dục<br/>
- Tất cả trách nhiệm của các bạn khi dùng tool này , chúng tôi không chịu trách nhiệm ! <br/> 
+ Tất cả trách nhiệm của các bạn khi dùng tool này , chúng tôi không chịu trách nhiệm ! <br/>
+ Acttack <br/>
+1. Chạy file setup.py chọn theo setup của máy <br/>
+2. Chạy file main.py <br/>
+3. Nhập: "soc" Enter <br/>
+       Nhập đường link <br/>
+       Nhập số luồng cần tấn công: 500000 <br/>
+       Nhập thời gian cần tấn công: 200 <br/>
 
 # Language</br>
 
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
-## Attack
-1. Chạy file setup.py chọn theo setup của máy
-2. Chạy file main.py
-3. Nhập: "soc" Enter
-       Nhập đường link
-       Nhập số luồng cần tấn công: 500000
-       Nhập thời gian cần tấn công: 200
+
 # Img
 
 <img src="https://github.com/KAR13MA09/NTTT-DDoS/blob/main/NTTT-DDoS.png"/></br>
