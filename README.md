@@ -7,8 +7,8 @@
  Acttack <br/>
 1. Chạy lệnh: python setup.py chọn theo setup của máy <br/>
 2. Chạy lệnh: pip install setuptools <br/>
-2. Chạy lệnh: python main.py <br/>
-3. Nhập: "soc" Enter <br/>
+3. Chạy lệnh: python main.py <br/>
+4. Nhập: "soc" Enter <br/>
        Nhập đường link <br/>
        Nhập số luồng cần tấn công: 500000 <br/>
        Nhập thời gian cần tấn công: 200 <br/>
