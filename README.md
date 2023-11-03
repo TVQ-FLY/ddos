@@ -5,8 +5,9 @@
  DDoS Script (DDoS Panel) với nhiều Bypass (Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / v.v.)<br/><br/>
  Tất cả trách nhiệm của các bạn khi dùng tool này , chúng tôi không chịu trách nhiệm ! <br/>
  Acttack <br/>
-1. Chạy file setup.py chọn theo setup của máy <br/>
-2. Chạy file main.py <br/>
+1. Chạy lệnh: python setup.py chọn theo setup của máy <br/>
+2. Chạy lệnh: pip install setuptools <br/>
+2. Chạy lệnh: python main.py <br/>
 3. Nhập: "soc" Enter <br/>
        Nhập đường link <br/>
        Nhập số luồng cần tấn công: 500000 <br/>
